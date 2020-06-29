@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UNitTest
+namespace UnitTestFm
 {
     [TestFixture]
     public class TestClass1
@@ -25,7 +25,7 @@ namespace UNitTest
         {
             // TODO: Add your test code here
 
-            Assert.AreEqual(9, program.AddData(4,5));
+            Assert.AreEqual(9, program.AddData(4, 5));
 
         }
     }
