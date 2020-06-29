@@ -16,9 +16,7 @@ namespace UNitTest
         {
             return (a + b);
         }
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+
+       
     }
 }
